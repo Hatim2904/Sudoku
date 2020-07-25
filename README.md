@@ -7,5 +7,6 @@ This is a sudoku generator and also shows you solved version in terminal.
 
 **Sudoku Solved Terminal Output:**
 
-![SS](sudokusolve.png)
+![](solve.png)
+
 To run this code simply run the GUI.py file
